@@ -2,4 +2,4 @@
 
 #### This repository contains exploratory analysis of the messages
 
-*The model isn;t finalized yet. Still working on the model but the EDA is in the repository
+*The model isn't finalized yet. Still working on the model
